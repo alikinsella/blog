@@ -1,9 +1,16 @@
 .first {
-  color: #000000 
+  color: #000000;
+  text-align: justify;
 }
 .second {
-  color: #1d1b1b
+  color: #1d1b1b;
+  text-align: justify;
 }
 .third {
-  color: #333232
+  color: #333232;
+  text-align: justify;
+}
+.about {
+  font-family: sans-serif;
+  text-align: jusify;
 }
